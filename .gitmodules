@@ -1,0 +1,3 @@
+[submodule "Projects/MicroAutomation-Log"]
+	path = Projects/MicroAutomation-Log
+	url = https://github.com/NetbootHome/MicroAutomation-Log.git
